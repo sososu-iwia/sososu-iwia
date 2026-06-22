@@ -61,11 +61,11 @@ philosophy: "Write code that humans can read and machines can scale."
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🏗️ **Backend Architecture** — designing maintainable, modular services
-- 🔌 **REST API Design** — clean, well-documented, versioned APIs
-- ⚡ **Database Optimization** — indexing, query tuning, caching strategies
+-  **Backend Architecture** — designing maintainable, modular services
+-  **REST API Design** — clean, well-documented, versioned APIs
+-  **Database Optimization** — indexing, query tuning, caching strategies
 -  **Clean Code & System Design** — SOLID, DDD, scalability patterns
 -  **CI/CD Pipelines** — automated build, test & deploy workflows
 -  **SRE Practices** — observability, reliability, incident response
